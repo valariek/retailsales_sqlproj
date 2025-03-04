@@ -1,0 +1,1 @@
+This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyse retail sales data. This project involves setting up a retail sales database, performing EDA, and answering business questions through SQL queries.
